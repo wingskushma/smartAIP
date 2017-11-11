@@ -17,7 +17,6 @@
         <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
 
-
     </head>
     <body>
         <div class="navbar navbar-expand-lg  navbar-dark bg-primary navbar-right">

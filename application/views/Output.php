@@ -69,5 +69,3 @@
           </div>
         </div>
       </div>
-
-</div><!--end of div.container of header -->

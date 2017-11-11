@@ -21,6 +21,8 @@ class Smartaip extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('header');
+		$this->load->view('fileUploader');
 		$this->load->view('output');
+		$this->load->view('footer');
 	}
 }
